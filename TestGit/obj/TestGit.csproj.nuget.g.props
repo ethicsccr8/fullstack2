@@ -11,5 +11,9 @@
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/Users/cristophercedeno/.nuget/packages/" />
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/cristophercedeno/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/cristophercedeno/.nuget/packages/</NuGetPackageFolders>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.11.0</NuGetToolVersion>
+    <SourceRoot Include="/Users/cristophercedeno/.nuget/packages/" />
   </ItemGroup>
 </Project>

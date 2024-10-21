@@ -63,6 +63,21 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+    "/Users/cristophercedeno/Ethics Code/GitTest/fullstack2/TestGit/TestGit.csproj": {}
+    "/Users/cristophercedeno/Ethics Code/GitTest/fullstack2/TestGit/TestGit.csproj": {
+        "projectUniqueName": "/Users/cristophercedeno/Ethics Code/GitTest/fullstack2/TestGit/TestGit.csproj",
+        "projectPath": "/Users/cristophercedeno/Ethics Code/GitTest/fullstack2/TestGit/TestGit.csproj",
+        "packagesPath": "/Users/cristophercedeno/.nuget/packages/",
+        "outputPath": "/Users/cristophercedeno/Ethics Code/GitTest/fullstack2/TestGit/obj/",
+          "/Users/cristophercedeno/.nuget/NuGet/NuGet.Config"
+          "/usr/local/share/dotnet/library-packs": {},
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
