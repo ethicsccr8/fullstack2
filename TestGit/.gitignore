@@ -19,6 +19,13 @@
 # Mono auto generated files
 mono_crash.*
 
+# DotNet files
+bin/
+obj/
+out/
+logs/
+.idea/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -483,9 +490,3 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-# DotNet files
-bin/
-obj/
-out/
-logs/
-.idea/
