@@ -488,3 +488,4 @@ bin/
 obj/
 out/
 logs/
+.idea/
