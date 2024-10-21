@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ingjr\\.nuget\\packages\\": {}
+    "C:\\Users\\kafay\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Udemy\\Git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj",
+      "projectUniqueName": "C:\\Users\\kafay\\source\\repos\\fullstack2\\TestGit\\TestGit.csproj",
       "projectName": "TestGit",
-      "projectPath": "C:\\Udemy\\Git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj",
-      "packagesPath": "C:\\Users\\ingjr\\.nuget\\packages\\",
-      "outputPath": "C:\\Udemy\\Git\\ethicsCodeTest\\fullstack2\\TestGit\\obj\\",
+      "projectPath": "C:\\Users\\kafay\\source\\repos\\fullstack2\\TestGit\\TestGit.csproj",
+      "packagesPath": "C:\\Users\\kafay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kafay\\source\\repos\\fullstack2\\TestGit\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ingjr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kafay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.7.24407.12/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
