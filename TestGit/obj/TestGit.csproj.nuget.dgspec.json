@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Udemy\\Git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj": {}
+    "C:\\Udemy\\git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj": {}
   },
   "projects": {
-    "C:\\Udemy\\Git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj": {
+    "C:\\Udemy\\git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Udemy\\Git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj",
+        "projectUniqueName": "C:\\Udemy\\git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj",
         "projectName": "TestGit",
-        "projectPath": "C:\\Udemy\\Git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj",
+        "projectPath": "C:\\Udemy\\git\\ethicsCodeTest\\fullstack2\\TestGit\\TestGit.csproj",
         "packagesPath": "C:\\Users\\ingjr\\.nuget\\packages\\",
-        "outputPath": "C:\\Udemy\\Git\\ethicsCodeTest\\fullstack2\\TestGit\\obj\\",
+        "outputPath": "C:\\Udemy\\git\\ethicsCodeTest\\fullstack2\\TestGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ingjr\\AppData\\Roaming\\NuGet\\NuGet.Config",
