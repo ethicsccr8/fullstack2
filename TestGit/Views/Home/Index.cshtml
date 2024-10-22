@@ -3,6 +3,16 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 id="mensaje">Welcome</h1>
 
+    <script>
+        function cambiarTexto() {
+            var mensaje = document.getElementById("mensaje");
+            if (mensaje.innerHTML === "Welcome") {
+                mensaje.innerHTML = "Hola!";
+            } else {
+                mensaje.innerHTML = "Welcome";
+            }
+        }
+    </script>
 </div>
